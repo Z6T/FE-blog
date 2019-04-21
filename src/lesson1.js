@@ -12,3 +12,19 @@ export default str => {
          return item.split('').reverse().join('')
      }).join(' ')
 };
+{
+    // 方法二 -- 证明你知道split中可以写正则
+    var fun2 = (str)=>{
+        return str.split(/\s/).map(item=>{
+            return item.split('').reverse().join('')
+        }).join(' ')
+    }
+
+    // 方法三 -- 证明你知道match,并且会用正则
+    var fun3 = (str)=>{
+        return str.match(/[\w']+/g).map(item=>{
+            return item.split('').reverse().join('')
+        }).join(' ')
+    }
+
+}
