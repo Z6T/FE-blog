@@ -8,5 +8,5 @@
      |-- test'  // 自动化测试目录
      |-- README.md' // 说明文件
 ```
-# LeetCode
+# LeetCode专区
 - [反转字符串中的单词](https://github.com/Z6T/leetcode/blob/master/src/lesson1.js)
