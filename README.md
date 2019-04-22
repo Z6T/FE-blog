@@ -9,4 +9,4 @@
      |-- README.md' // 说明文件
 ```
 # LeetCode专区
-- [反转字符串中的单词](https://github.com/Z6T/leetcode/blob/master/src/lesson1.js)
+- [Two Sum](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson1.js)
