@@ -8,4 +8,5 @@
      |-- test'  // 自动化测试目录
      |-- README.md' // 说明文件
 ```
-# LeetCode
+# LeetCode专区
+- [Two Sum](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson1.js)
