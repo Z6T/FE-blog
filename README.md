@@ -9,4 +9,6 @@
      |-- README.md' // 说明文件
 ```
 # LeetCode专区
-- [Two Sum](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson1.js)
+## easy
+- [Two Sum](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson1.js) | 001 两数之和
+- [Reverse Integer](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson2.js) | 007 整数反转
