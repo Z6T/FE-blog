@@ -10,7 +10,7 @@
  */
 
  // 知识点主要是巧妙的反转数组
- export default (x) => {
+ exports.fun1 = (x) => {
   let isGreater = x > 0 ? true : false;let sum = 0;
   x = Math.abs(x)
   // 反转数组
@@ -19,6 +19,18 @@
     x = parseInt(x/10) // 每次退一位
   }
   if(!isGreater) sum = -sum;
-  console.log(sum)
   return (sum > Math.pow(2,31) -1 || sum < Math.pow(-2,31)) ? 0: sum;
+};
+
+ exports.fun2 =  (x) => {
+  let isGreater = x > 0 ? true : false;let sum = 0;
+  x = Math.abs(x)
+  sum = String(x).split('').reverse().join('')
+  // // 反转数组
+  // while(x){
+  //   sum = sum * 10 + x % 10; 
+  //   x = parseInt(x/10) // 每次退一位
+  // }
+  if(!isGreater) sum = -sum;
+  return (sum > Math.pow(2,31) -1 || sum < Math.pow(-2,31)) ? 0: Number(sum);
 };
