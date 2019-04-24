@@ -16,3 +16,4 @@
 - [Two Sum](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson1.js) | 001 两数之和
 - [Reverse Integer](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson2.js) | 007 整数反转
 - [Palindrome Number](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson3.js) | 009 回文数
+- [Roman to Integer](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson4.js) | 013 罗马数字转整数
