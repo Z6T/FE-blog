@@ -30,5 +30,5 @@ export default strs => {
     result += firstItem[i]
   }
   // 这一步是为了防止第一个元素就是最大的公共子串，也要返回出去
-  return sresult
+  return result
 };
