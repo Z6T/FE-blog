@@ -18,3 +18,4 @@
 - [Palindrome Number](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson3.js) | 009 回文数
 - [Roman to Integer](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson4.js) | 013 罗马数字转整数
 - [Longest Common Prefix](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson5.js) | 014 最长公共前缀
+- [Valid Parentheses](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson6.js) | 020 有效的括号
