@@ -4,12 +4,12 @@
 
 # 目录介绍以及运行测试
 ```
-     |-- src',  // 源代码目录
-     |-- test'  // 自动化测试目录
-     |-- README.md' // 说明文件
+|-- src',  // 源代码目录
+|-- test'  // 自动化测试目录
+|-- README.md' // 说明文件
 
-     // 运行测试
-     npm test
+// 运行测试
+   npm test    
 ```
 # LeetCode专区
 ## easy
@@ -18,3 +18,10 @@
 - [Palindrome Number](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson3.js) | 009 回文数
 - [Roman to Integer](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson4.js) | 013 罗马数字转整数
 - [Longest Common Prefix](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson5.js) | 014 最长公共前缀
+- [Merge Two Sorted Lists](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson6.js) | 021. 合并两个有序链表
+- [Remove Duplicates from Sorted Array](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson7.js) | 026. 删除排序数组中的重复项
+
+
+
+
+New
