@@ -20,6 +20,7 @@
 - [Longest Common Prefix](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson5.js) | 014 最长公共前缀
 - [Merge Two Sorted Lists](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson6.js) | 021. 合并两个有序链表
 - [Remove Duplicates from Sorted Array](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson7.js) | 026. 删除排序数组中的重复项
+- [Remove Element](https://github.com/Z6T/leetcode/blob/master/src/easy/lesson8.js) | 027. 移除元素
 
 
 
