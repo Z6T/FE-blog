@@ -5,7 +5,6 @@
  * @return {number}
  */
 
-
 // 第一种方法
 var searchInsert = function(nums, target) {
     nums.push(target);
@@ -13,8 +12,6 @@ var searchInsert = function(nums, target) {
     arr.sort((a,b)=>a-b)
     return arr.indexOf(target)
 };
-
-
 
 // 第二种方法
 /**
